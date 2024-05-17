@@ -73,12 +73,15 @@
 <br/>
 
 
-![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=boooTomatoes&show_icons=true&theme=radical) 
-<br>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boooTomatoes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boooTomatoes&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+![Nada's Github Stats](https://github-readme-stats.vercel.app/api?username=boooTomatoes&show_icons=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=boooTomatoes&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=boooTomatoes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+	
+</a>
+</div>
+
 
 
 <p align= "center">
