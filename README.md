@@ -49,7 +49,7 @@
   </a> 
   <a href="https://angular.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
-  </a> 
+  </a> <br>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
@@ -72,7 +72,10 @@
 
 <br/>
 
-![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=boooTomatoes&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boooTomatoes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=boooTomatoes&show_icons=true&theme=radical) 
+<br>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boooTomatoes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boooTomatoes&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
