@@ -75,11 +75,11 @@
 
 <div align="center">
   
-  ![Nada's Github Stats](https://github-readme-stats.vercel.app/api?username=boooTomatoes&show_icons=true&theme=radical&cache_seconds=1800)
+  ![Nada's Github Stats](https://github-readme-stats.vercel.app/api?username=boooTomatoes&show_icons=true&theme=radical)
   
   ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=boooTomatoes&theme=radical&hide_border=false)
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boooTomatoes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boooTomatoes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
